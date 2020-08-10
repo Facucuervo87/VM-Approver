@@ -7,3 +7,6 @@
  
 ## Running the program
 Open `settings.json` and modify the csv path to be uploaded and the VM-Orchestrator url being used.
+
+ - Windows `py approver.py`
+ - Other `python3 approver.py`
