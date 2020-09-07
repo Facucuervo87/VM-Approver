@@ -31,7 +31,7 @@ for index, row in data.iterrows():
         'is_alive': row['is_alive'],
         'has_urls': row['has_urls'],
         'approved': row['approved'],
-        'type': row['scan_type'],
+        'type': row['type'],
         'priority': row['priority'],
         'exposition': row['exposition'],
         'asset_value': row['asset_value']
